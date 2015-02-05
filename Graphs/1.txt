@@ -1,0 +1,7 @@
+30-Aug-08,Harding,31,Missouri Southern,45
+30-Aug-08,Adams State,3,Montana State,59
+30-Aug-08,Southern Virginia,6,Morehead State,49
+30-Aug-08,Towson,13,Navy,41
+30-Aug-08,Western Michigan,24,Nebraska,47
+30-Aug-08,Wayne St NE,28,Nebraska-Kearney,12
+30-Aug-08,Grambling State,13,Nevada,49
